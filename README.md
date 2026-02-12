@@ -15,7 +15,7 @@ Three substantive contributions across FLOSS-compliant projects (MIT/GPL v3 lice
 | Project | Category | Contribution | Status | PR Link |
 |---------|----------|--------------|--------|---------|
 | **[Beszel](https://github.com/henrygd/beszel)** | Documentation | Added "How to Use" section with setup workflows & troubleshooting guide | Pending Review | [`#1740]([https://github.com/henrygd/beszel/pull/YOUR_PR_NUMBER](https://github.com/henrygd/beszel/pull/1740)) |
-| **[Public Lab plots2](https://github.com/publiclab/plots2)** | Good First Issue | Fixed accessibility label in image upload component | Pending Review | [`#YOUR_PR_NUMBER`](https://github.com/publiclab/plots2/pull/YOUR_PR_NUMBER) |
+| **[first-contributions](https://github.com/SHEVISANTOS/first-contributions)** | Good First Issue | Fixed accessibility label in image upload component |Done| [`#111685]([https://github.com/publiclab/plots2/pull/YOUR_PR_NUMBER](https://github.com/firstcontributions/first-contributions/pull/111685)) |
 
 
 ## 🔍 Contribution Highlights
