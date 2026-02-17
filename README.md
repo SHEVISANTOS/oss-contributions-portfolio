@@ -1,7 +1,7 @@
 # oss-contributions-portfolio
 # Open Source Contributions Portfolio
-> *Shevi Maisha — ICT Officer @ Geita Town Council | CCNA | Python Developer*  
-> National Institute of Technology (NIT) Tanzania — IT8303 Individual Assignment (Feb 2026)
+> *Mbogo K ZAbron — Student of ICT @ Geita Town Council | CCNA | Python Developer*  
+> MBEYA UNIVERSITY OF SCIENCE AND TECHNLOGY Tanzania — IT8303 Individual Assignment (Feb 2026)
 
 ![OSS Contributions](https://img.shields.io/badge/Contributions-3-success) 
 ![License](https://img.shields.io/badge/License-MIT%20%7C%20GPL_v3-FLOSS) 
